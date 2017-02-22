@@ -13,5 +13,6 @@ src not available right now, might add it later ;)
 # Tested Operating Systems and effects (All tested in VMs)
 *Windows XP
   - System unbootable after destruction.
+  
 *Windows 7
   - System gets past startup animation and then a BSOD appears.
