@@ -19,3 +19,5 @@ src not available right now, might add it later ;)
 
 # How the virus destroys the OS
 R3KT iterates through all files on your system drive and replaces the contents of all files with "get r3kt.". This is done in rapid speed so WFP simply can't keep up to keep critical system files alive. It also messes up configuration files too. There is no way to fix your OS after R3KT damaged it. You may need to reinstall Windows if you ran R3KT.
+
+- Note: If R3KT wasn't run as an administrator, your profile and anything that has your ownership on it is corrupt.
